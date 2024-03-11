@@ -12,7 +12,7 @@ O teste foi realizado no site [Sauce Demo](https://www.saucedemo.com/).
 
 ## Cenários de teste
 
-| Número | Cenário                                                             |
+| Número | Cenários                                                             |
 |--------|---------------------------------------------------------------------|
 | 1      | ✔️ **Login bem-sucedido**: O teste inicia com um login bem-sucedido usando credenciais de usuário válidas. |
 | 2      | 🛒 **Ordenação de produtos**: Os produtos são ordenados do menor para o maior preço. |
